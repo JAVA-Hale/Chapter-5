@@ -21,6 +21,7 @@ public class Triangle {
 
         }
         else if (choice == 3){
+            Equilateraltriangle();
 
         }
 
@@ -71,6 +72,7 @@ public class Triangle {
         System.out.println("The perimeter is " + Perimeter);
     }
 
+
     public static void rightTriangleMathC(double side1, double side2, String choice){
         double C;
         C = Math.sqrt((side2*side2)-(side1 * side1));
@@ -95,9 +97,20 @@ public class Triangle {
 
 
     }
-
-
+    public static void Equilateraltriangle(){
+        Scanner input = new Scanner(System.in);
+        System.out.println("Enter the length of one side of the triangle >>>> ");
+        double sideA = input.nextDouble();
+        sideA = Math.sqrt(3/4);
+        System.out.println("The height is " + sideA);
+        rightTriangleMathAB(sideA, "Height" );
     }
+
+    public static void rightTriangleMathAB(double sideA, String height) {
+    }
+
+
+}
 
 
 
