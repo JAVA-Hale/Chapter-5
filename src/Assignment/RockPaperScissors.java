@@ -14,40 +14,41 @@ public class RockPaperScissors {
         int rand_pick;
         int userChoice;
         Random r = new Random();
-        rand_pick = r.nextInt();
+        rand_pick = r.nextInt(3) + 1;
 
         System.out.println(" \n1-for Rock \n2-for Paper \n3-for Scissors");
         userChoice = input.nextInt();
 
-        if (userChoice == 1)
-        {
+        if (userChoice == 1) {
             if (rand_pick == 1)
-            {
                 System.out.println("Tie");
-            }
             else if (rand_pick == 2)
-            {
                 System.out.println("Paper beats rock");
-            }
-            else if (rand_pick == 3)
+            else if(rand_pick == 3)
                 System.out.println("Rock beats Scissors");
 
-        }
-        if (userChoice == 2)
-        {
-            if (rand_pick == 2)
-            {
-                System.out.println("Tie");
+            }
+         else if (userChoice == 2) {
+                if (rand_pick == 2)
+                    System.out.println("Tie");
+                else if (rand_pick == 1)
+                    System.out.println("Paper beats rock");
+
+                else if (rand_pick == 3)
+                    System.out.println("Scissors beats Paper");
+            }
+         else if(userChoice == 3) {
+                if (rand_pick == 3) {
+                    System.out.println("Tie");
+                } else if (rand_pick == 1) {
+                    System.out.println("Rock beats Scissors");
+                }
+                else if (rand_pick == 2) {
+                    System.out.println("Scissors beats Paper");
+                    }
 
             }
-        }
-        if (userChoice == 3)
-        {
-            if (rand_pick == 3)
-            {
-                System.out.println("Tie");
-            }
-        }
     }
 }
+
 
