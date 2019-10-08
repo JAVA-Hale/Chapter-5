@@ -24,7 +24,7 @@
       <file leaf-file-name="RockPaperScissors.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Assignment/RockPaperScissors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="374">
               <caret line="23" column="36" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -72,7 +72,7 @@
       <file leaf-file-name="DebuggingFive1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Assignment/DebuggingFive1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="357">
               <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -84,7 +84,7 @@
       <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Examples/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-476">
+            <state relative-caret-position="493">
               <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
             </state>
           </provider>
@@ -182,9 +182,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,6 +344,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1448" y="-7" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -366,11 +367,11 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49861112" weight="0.37976348" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49861112" weight="0.37976348" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -704,14 +705,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Examples/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-476">
+        <state relative-caret-position="493">
           <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Assignment/RockPaperScissors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="374">
           <caret line="23" column="36" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -749,7 +750,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Assignment/DebuggingFive1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="357">
           <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
